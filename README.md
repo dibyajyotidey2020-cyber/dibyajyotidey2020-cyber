@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi, I'm Dibyajyoti Dey, a Computer Science and Engineering student at JIS College of Engineering, Kalyani.
+💻 I have a growing foundation in Java, Python, C, HTML, OOP, and Data Structures & Algorithms.
+🧠 I'm particularly interested in Artificial Intelligence, Machine Learning, and Data Science, and I'm exploring these fields while strengthening my programming and problem-solving fundamentals.
+🛠️ I use Git and GitHub to manage and share my learning and coding work.
+🚀 Currently learning, experimenting, and building my foundation in Computer Science.
 
 <!--
 **dibyajyotidey2020-cyber/dibyajyotidey2020-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
