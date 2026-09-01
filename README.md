@@ -79,7 +79,7 @@ I am always open to connecting with fellow students, developers, and technology 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-📄 **[Download My Full Resume](./Dibyajyoti_Dey_Resume_.pdf)**
+📄 **[Download My Full Resume](Dibyajyoti_Dey_Resume__.pdf)**
 
 ---
 
