@@ -26,7 +26,7 @@
 - **Web Technologies:** HTML5, CSS3
 - **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming
 - **Tools:** Git, GitHub
-- **Currently Exploring:** AI/ML & Data Science
+- **Areas of Interest :** AI/ML & Data Science
 
 ---
 
@@ -49,19 +49,6 @@ Engineered the patient self-service kiosk for medical history and invoice tracki
 **Tech Stack:** `C` • `File I/O` • `Data Structures`
 
 🔗 **[View Project on GitHub](https://github.com/KingDev4522/clinic)**
-
----
-
-## 📚 Currently Learning
-
-- 🧠 Data Structures & Algorithms
-- ☕ Java
-- 🐍 Python
-- ⚙️ C & Systems Programming
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science
-
----
 
 ---
 
