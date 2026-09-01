@@ -63,15 +63,23 @@ Engineered the patient self-service kiosk for medical history and invoice tracki
 
 ---
 
+---
+
 ## 🤝 Connect & Collaborate
 
 I am always open to connecting with fellow students, developers, and technology enthusiasts to discuss **software development, programming, AI/ML, Data Science, and interesting technical projects**.
 
-📧 **Email:** [dibyajyotidey2020@gmail.com](mailto:dibyajyotidey2020@gmail.com)
+<a href="mailto:dibyajyotidey2020@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dibyajyoti-dey/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/dibyajyotidey2020-cyber">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-💼 **LinkedIn:** [linkedin.com/in/dibyajyoti-dey](https://www.linkedin.com/in/dibyajyoti-dey/)
-
-🐙 **GitHub:** [dibyajyotidey2020-cyber](https://github.com/dibyajyotidey2020-cyber)
+📄 **[Download My Full Resume](YOUR_RESUME_LINK_HERE)**
 
 ---
 
