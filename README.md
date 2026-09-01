@@ -50,6 +50,17 @@ Engineered the patient self-service kiosk for medical history and invoice tracki
 
 🔗 **[View Project on GitHub](https://github.com/KingDev4522/clinic)**
 
+### 🚗 Smart Bluetooth 4WD RC Car
+
+**[Collaborative Project – Researcher & Co-Developer]**
+
+A smartphone-controlled 4WD robotic car developed as a collaborative hardware and embedded-systems project.
+
+- **Research & Development:** Contributed to researching the hardware architecture, motor-control approach, and overall system implementation.
+- **Hardware Integration:** Worked with Arduino Uno, HC-05 Bluetooth module, and L293D motor driver.
+- **Embedded Systems:** Contributed to embedded C++ logic for Bluetooth-based control and differential drive.
+- **System Testing:** Assisted in testing motor control and identifying hardware and performance issues.
+
 ---
 
 ## 🤝 Connect & Collaborate
