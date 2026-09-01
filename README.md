@@ -1,4 +1,4 @@
-👋# 👋 Hi, I'm Dibyajyoti Dey
+👋 Hi, I'm Dibyajyoti Dey
 
 ### B.Tech CSE Student | Java • Python • C | DSA & OOP | Exploring AI/ML & Data Science
 
